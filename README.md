@@ -1,7 +1,7 @@
-# PortNumbersReferenceList
+# Port-List
 For reference information collection Common port collection
 # Download
-git clone https://github.com/whetting/PortNumbersReferenceList.git
+git clone https://github.com/whetting/port-list.git
 # Use
 root@kali:~$ nmap -p port_default.txt 192.168.0.0 #You can replace port default.txt with a different file
 Starting Nmap 7.80 ( https://nmap.org ) at 2024-12-07 10:00
